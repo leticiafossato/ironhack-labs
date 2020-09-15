@@ -1,0 +1,3 @@
+RESOLUTION: 
+Link to my Tableau Public workbook:
+https://public.tableau.com/profile/leticia.fossato#!/vizhome/BI-Tableau_16002016733770/Histria1
