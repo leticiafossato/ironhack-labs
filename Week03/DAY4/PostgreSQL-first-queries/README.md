@@ -33,9 +33,11 @@
 "Games"	52878491
 
 **3. Which is the genre with most apps?**
-SELECT prime_genre, COUNT(*) FROM data
-"prime_genre"	"count"
-"Games"	3862
+| prime_genre  |  count  |
+| ------------ | --------|
+|    Games     |  3862   |
+
+
 
 **4. Which is the one with least?**
 "prime_genre"	"count"
