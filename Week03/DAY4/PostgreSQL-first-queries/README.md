@@ -5,11 +5,11 @@
 **1. What are the different genres?**
 
 "Shopping"<br>
-"Games"<br><br>
+"Games"<br>
 "Education"<br>
 "Reference"<br>
 "Business"<br>
-"Social Networking"<br><br>
+"Social Networking"<br>
 "Food & Drink"<br>
 "Sports"<br>
 "Catalogs"<br>
