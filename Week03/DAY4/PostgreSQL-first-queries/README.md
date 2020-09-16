@@ -61,17 +61,19 @@
 
 
 **6. Find the top 10 apps best rated by users.**
-"track_name"	"sum"
-"VR Roller Coaster"	7
-"Mannequin Challenge"	7
-"Versus - Multiplayer Game (2 players)"	5
-"Evolution Calculator - CP & XP - for Pokemon GO!"	5
-"Ý«¾Õ_¤(¨÷¾Ð_äö)-_Òâ_È_ÀªàÎ_Û¤Ü"	5
-"Neon Chrome"	5
-"Bitauto Autoprice"	5
-"Triller - Music Video & Film Maker"	5
-"Kingdom Rush Origins HD"	5
-"Beat Stomper"	5
+| track_name                                          |  sum  |
+| ------------                                        | ------|
+|  VR Roller Coaster                                  |   7   |
+|  Mannequin Challenge                                |   7   |
+|  Versus - Multiplayer Game (2 players)              |   5   |
+|  Evolution Calculator - CP & XP - for Pokemon GO!   |   5   |
+|  Ý«¾Õ_¤(¨÷¾Ð_äö)-_Òâ_È_ÀªàÎ_Û¤Ü         |   5   |
+| Neon Chrome                                         |   5   |
+|  Bitauto Autoprice                                  |   5   |
+|  Triller - Music Video & Film Maker                 |   5   |
+|  Kingdom Rush Origins HD                            |   5   |
+|  Beat Stomper                                       |   5   |
+
 
 **7. Take a look at the data you retrieved in question 5. Give some insights.**
 This result is not realiable because we can't classify as top 10 considering only the total of ratings. 
