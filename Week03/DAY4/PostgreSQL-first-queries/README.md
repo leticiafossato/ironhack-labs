@@ -87,10 +87,11 @@ A prove of that, is: the results obtained on quetions 5 and 6 were totally diffe
 We can't analyse only by the quantity of total ratings, we also need to consider which rate was given.
 
 **10. How could you take the top 3 regarding both user ratings and number of votes?**
-"track_name"	"user_rating"	"rating_count_tot"
-"Head Soccer"	5	481564
-"Plants vs. Zombies"	5	426463
-"Sniper 3D Assassin: Shoot to Kill Gun Game"	5	386521
+| user_rating                                      |    user_rating    |      rating_count_tot     |
+| ------------                                     | ----------------- |  -------------------------|
+|  Head Soccer                                     |       5           |          481564           |         
+|  Plants vs. Zombies                              |       5           |          426463           |  
+|  Sniper 3D Assassin: Shoot to Kill Gun Game      |       5           |          386521           |  
 
 
 **11. Do people care about the price of an app?** Do some queries, comment why are you doing them and the results you retrieve. What is your conclusion?**
@@ -111,13 +112,17 @@ Considering this, people care about price of an app because free apps are more l
 
 
 **Bonus: Find the total number of games available in more than 1 language.**
-"prime_genre"	"count"
-"Games"	1660
+| prime_genre       |          count    |      
+| ------------      | ----------------- |  
+|  Games            |         1660      |
+
 
 **Bonus2: Find the number of free vs paid apps**
-"price_app"	"count"
-"paid"	3141
-"free"	4056
+| price_app       |       count       |      
+| ------------    | ----------------- |  
+|  paid           |         3141      |
+|  free           |         4056      |
+
 
 **Bonus3: Find the number of free vs paid apps for each genre**
 :grey_question: I make 02 queries to answer this quetion, but I'll try to improve the solution.
