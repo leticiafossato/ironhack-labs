@@ -29,8 +29,9 @@
 "Lifestyle"
 
 **2. Which is the genre with the most apps rated?**
-"prime_genre"	"sum"
-"Games"	52878491
+| prime_genre  |    sum    |
+| ------------ | --------  |
+|    Games     |  52878491 |
 
 **3. Which is the genre with most apps?**
 | prime_genre  |  count  |
@@ -38,23 +39,25 @@
 |    Games     |  3862   |
 
 
-
 **4. Which is the one with least?**
-"prime_genre"	"count"
-"Catalogs"	10
+| prime_genre  |  count  |
+| ------------ | --------|
+|  Catalogs    |    10   |
+
 
 **5. Find the top 10 apps most rated.**
-"track_name"	"sum"
-"Facebook"	2974676
-"Instagram"	2161558
-"Clash of Clans"	2130805
-"Temple Run"	1724546
-"Pandora - Music & Radio"	1126879
-"Pinterest"	1061624
-"Bible"	985920
-"Candy Crush Saga"	961794
-"Spotify Music"	878563
-"Angry Birds"	824451
+| track_name                 |     sum     |
+| ------------               | ------------|
+|  Facebook                  |    2974676  |
+|  Instagram                 |    2161558  |
+|  Clash of Clans            |    2130805  |
+|  Temple Run                |    1724546  |
+|  Pandora - Music & Radio   |    1126879  |
+|  Pinterest                 |    1061624  |
+|  Bible                     |    985920   |
+|  Candy Crush Saga          |    961794   |
+|  Spotify Music             |    878563   |
+|  Angry Birds               |   824451    |
 
 
 **6. Find the top 10 apps best rated by users.**
