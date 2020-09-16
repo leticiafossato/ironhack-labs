@@ -4,29 +4,29 @@
 
 **1. What are the different genres?**
 
-"Shopping"
-"Games"
-"Education"
-"Reference"
-"Business"
-"Social Networking"
-"Food & Drink"
-"Sports"
-"Catalogs"
-"Weather"
-"Book"
-"Music"
-"Entertainment"
-"Medical"
-"Utilities"
-"Travel"
-"Navigation"
-"Photo & Video"
-"Finance"
-"Health & Fitness"
-"News"
-"Productivity"
-"Lifestyle"
+"Shopping"<br>
+"Games"<br><br>
+"Education"<br>
+"Reference"<br>
+"Business"<br>
+"Social Networking"<br><br>
+"Food & Drink"<br>
+"Sports"<br>
+"Catalogs"<br>
+"Weather"<br>
+"Book"<br>
+"Music"<br>
+"Entertainment"<br>
+"Medical"<br>
+"Utilities"<br>
+"Travel"<br>
+"Navigation"<br>
+"Photo & Video"<br>
+"Finance"<br>
+"Health & Fitness"<br>
+"News"<br><br>
+"Productivity"<br>
+"Lifestyle"<br>
 
 **2. Which is the genre with the most apps rated?**
 | prime_genre  |    sum    |
@@ -95,17 +95,18 @@ We can't analyse only by the quantity of total ratings, we also need to consider
 
 
 **11. Do people care about the price of an app?** Do some queries, comment why are you doing them and the results you retrieve. What is your conclusion?**
-"track_name"	"user_rating"	"rating_count_tot"	"price"	"currency"
-"Head Soccer"	5	481564	0	"USD"
-"Plants vs. Zombies"	5	426463	0.99	"USD"
-"Sniper 3D Assassin: Shoot to Kill Gun Game"	5	386521	0	"USD"
-"Geometry Dash Lite"	5	370370	0	"USD"
-"Infinity Blade"	5	326482	0.99	"USD"
-"Geometry Dash"	5	266440	1.99	"USD"
-"Domino's Pizza USA"	5	258624	0	"USD"
-"CSR Racing 2"	5	257100	0	"USD"
-"Pictoword: Fun 2 Pics Guess What's the Word Trivia"	5	186089	0	"USD"
-"Plants vs. Zombies HD"	5	163598	0.99	"USD"
+| track_name                                           |    user_rating    |      rating_count_tot     | price | currency |
+| ------------                                         | ----------------- |  -------------------------|-------|----------|
+|  Head Soccer                                         |       5           |          481564           |   0   |    USD   |  
+|  Plants vs. Zombies                                  |       5           |          426463           |  0.99 |    USD   | 
+|  Sniper 3D Assassin: Shoot to Kill Gun Game          |       5           |          386521           |   0   |    USD   | 
+|  Geometry Dash Lite                                  |       5           |          370370           |   0   |    USD   | 
+|  Infinity Blade                                      |       5           |          326482           | 0.99  |    USD   | 
+|  Geometry Dash                                       |       5           |          266440           | 1.99  |    USD   | 
+|  Domino's Pizza USA                                  |       5           |          258624           |   0   |    USD   | 
+|  CSR Racing 2                                        |       5           |          257100           |   0   |    USD   | 
+|  Pictoword: Fun 2 Pics Guess What's the Word Trivia  |       5           |          186089           |   0   |    USD   | 
+|  Plants vs. Zombies HD                               |       5           |          163598           |  0.99 |    USD   | 
 
 Analysing the top 10 apps, 06 are free and the others costs between 0.99 ~ 1.99 USD.
 Considering this, people care about price of an app because free apps are more likely to be part of TOP 10.
