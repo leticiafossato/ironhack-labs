@@ -24,7 +24,7 @@
 "Photo & Video"<br>
 "Finance"<br>
 "Health & Fitness"<br>
-"News"<br><br>
+"News"<br>
 "Productivity"<br>
 "Lifestyle"<br>
 
@@ -125,7 +125,7 @@ Considering this, people care about price of an app because free apps are more l
 |  free           |         4056      |
 
 
-**Bonus3: Find the number of free vs paid apps for each genre**
+**Bonus3: Find the number of free vs paid apps for each genre**<br>
 :grey_question: I make 02 queries to answer this quetion, but I'll try to improve the solution.
 
 | prime_genre        |   paid  |
