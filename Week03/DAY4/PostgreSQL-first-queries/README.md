@@ -113,7 +113,7 @@ Considering this, people care about price of an app because free apps are more l
 
 
 **Bonus: Find the total number of games available in more than 1 language.**
-| prime_genre       |          count    |      
+| prime_genre       |       count       |      
 | ------------      | ----------------- |  
 |  Games            |         1660      |
 
@@ -128,54 +128,57 @@ Considering this, people care about price of an app because free apps are more l
 **Bonus3: Find the number of free vs paid apps for each genre**
 :grey_question: I make 02 queries to answer this quetion, but I'll try to improve the solution.
 
-"prime_genre"	"paid"
-"Shopping"	1
-"Games"	1605
-"Education"	321
-"Reference"	44
-"Social Networking"	24
-"Business"	37
-"Sports"	35
-"Food & Drink"	20
-"Catalogs"	1
-"Weather"	41
-"Book"	46
-"Music"	71
-"Entertainment"	201
-"Medical"	15
-"Utilities"	139
-"Travel"	25
-"Navigation"	26
-"Finance"	20
-"Photo & Video"	182
-"Health & Fitness"	104
-"News"	17
-"Productivity"	116
-"Lifestyle"	50
+| prime_genre        |   paid  |
+| ------------       | --------|
+| Shopping           |   1     |
+| Games              |   1605  |
+| Education          |   321   |
+| Reference          |   44    |
+| Social Networking  |   24    |
+| Business           |   37    |
+| Sports             |   35    |
+| Food & Drink       |   20    |
+| Catalogs           |   1     |   
+| Weather            |   41    |  
+| Book               |   46    | 
+| Music              |   71    | 
+| Entertainment      |   201   | 
+| Medical            |   15    | 
+| Utilities          |   139   | 
+| Travel             |   25    | 
+| Navigation         |   26    | 
+| Finance            |   20    | 
+| Photo & Video      |   182   | 
+| Health & Fitness   |   104   | 
+| News               |   17    | 
+| Productivity       |   116   | 
+| Lifestyle          |   50    | 
 
 
 
-"prime_genre"	"free"
-"Shopping"	121
-"Games"	2257
-"Education"	132
-"Reference"	20
-"Business"	20
-"Social Networking"	143
-"Food & Drink"	43
-"Sports"	79
-"Catalogs"	9
-"Weather"	31
-"Book"	66
-"Music"	67
-"Entertainment"	334
-"Medical"	8
-"Utilities"	109
-"Travel"	56
-"Navigation"	20
-"Photo & Video"	167
-"Finance"	84
-"Health & Fitness"	76
-"News"	58
-"Productivity"	62
-"Lifestyle"	94
+| prime_genre        |   free  |
+| ------------       | --------|
+| Shopping           |   121   |
+| Games              |   2257  |
+| Education          |   132   |
+| Reference          |   20    |
+| Business           |   20    |
+| Social Networking  |   143   |
+| Food & Drink       |  	43   |
+| Sports             |  	79   |
+| Catalogs           |  	9    |
+| Weather            |  	31   |
+| Book               |  	66   |
+| Music              |  	67   |
+| Entertainment      |  	334  |
+| Medical            |  	8    |
+| Utilities          |  	109  |
+| Travel             |  	56   |
+| Navigation         |  	20   |
+| Photo & Video      |   167   |
+| Finance            |  	84   |
+| Health & Fitness   |  	76   |
+| News               |  	58   |
+| Productivity       |    62   |
+| Lifestyle          |    94   |
+
