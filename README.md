@@ -15,7 +15,7 @@ Here you can check all my labs solutions developed during Data Analytics - IronH
 |  3   | Functions in Python         |    ✔️    |
 |  4   | Error Handling              |    ✔️    |
 |  4   | Object-Oriented Programming |    ➖    |
-
+<br>
 ## 🚩 Week 2: Module 1
 
 | Day  |  Lab                              |  Status  |
@@ -27,7 +27,7 @@ Here you can check all my labs solutions developed during Data Analytics - IronH
 |  3   | Data Manipulation - Aggregations  |    ✔️    |
 |  4   | Data Cleaning                     |    ✔️    |
 |  4   | Dataframe Calculations            |    ✔️    |
-
+<br>
 ## 🚩 Week 3: Module 1
 
 | Day  |  Lab                              |  Status  |
@@ -38,7 +38,7 @@ Here you can check all my labs solutions developed during Data Analytics - IronH
 |  4   | My First Queries                  |    ✔️    |
 |  4   | PostgreSQL - DML                  |    ✔️    |
 |  5   | Advanced Queries                  |    ✔️    |
-
+<br>
 ## 🚩 Week 4: Module 1
 
 | Day  |  Lab                              |  Status  |
@@ -49,8 +49,7 @@ Here you can check all my labs solutions developed during Data Analytics - IronH
 |  2   | Parallelization                   |    ➖    |
 |  3   | Extra Challenge - Data Pipelines  |    ➖    |
 |  4   | Matplotlib and Seaborn            |    ➖    |
-
-
+<br>
 ## 🚩 Week 5: Module 2
 
 | Day  |  Lab                              |  Status  |
@@ -62,7 +61,7 @@ Here you can check all my labs solutions developed during Data Analytics - IronH
 |  3   | Descriptive Statistics            |    ✔️    |
 |  3   | Statistics Visualization          |    ➖    |
 |  4   | Linear Regression                 |    ➖    |
-
+<br>
 ## 🚩 Week 6: Module 2
 
 | Day  |  Lab                              |  Status  |
@@ -73,7 +72,7 @@ Here you can check all my labs solutions developed during Data Analytics - IronH
 |  2   | BI Analysis with Tableau          |    ➖    |
 |  3   | Two Sample Hypothesis Tests       |    ➖    |
 |  3   | Recommender Systems               |    ➖    |
-
+<br>
 ## 🚩 Week 7: Module 3
 
 | Day  |  Lab                                |  Status  |
