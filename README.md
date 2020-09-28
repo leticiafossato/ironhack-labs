@@ -47,7 +47,7 @@ Here you can check all my labs solutions developed during Data Analytics - IronH
 |  1   | StackAPI Wrapper                  |    ➖    |
 |  2   | Web Scraping                      |    ➖    |
 |  2   | Parallelization                   |    ➖    |
-|  3   | Extra Challenge | Data Pipelines  |    ➖    |
+|  3   | Extra Challenge - Data Pipelines  |    ➖    |
 |  4   | Matplotlib and Seaborn            |    ➖    |
 
 
