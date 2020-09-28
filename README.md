@@ -1,7 +1,9 @@
 <img src="https://camo.githubusercontent.com/52d2ff8778b60261533a7dba8dd989c6893a519b/68747470733a2f2f692e696d6775722e636f6d2f315167724e4e772e706e67">
+
 # IronHack Labs
-Here you can check all my labs solutions developed during Data Analytics - IronHack course.<br>
-Status: Week 07 / Week 09
+
+<br>Here you can check all my labs solutions developed during Data Analytics - IronHack course.<br>
+<b>Status:</b> Week 07 / Week 09
 <br>
 
 ## 🚩 Week 1: Module 1
