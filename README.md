@@ -31,7 +31,7 @@ Status: Week 07 / Week 09
 | Day  |  Lab                              |  Status  |
 | ---- | ----------------------------      |----------|
 |  1   | Map, Reduce, and Filter           |    ✔️    |
-|  1   | Extra LAB | Lambda Functions      |    ✔️    |
+|  1   | Extra LAB - Lambda Functions      |    ✔️    |
 |  3   | PostgreSQL - DDL                  |    ✔️    |
 |  4   | My First Queries                  |    ✔️    |
 |  4   | PostgreSQL - DML                  |    ✔️    |
@@ -57,7 +57,7 @@ Status: Week 07 / Week 09
 |  1   | Introduction to BI and Tableau    |    ✔️    |
 |  2   | BI Analysis with Tableau          |    ✔️    |
 |  2   | Data Visualization with Tableau   |    ✔️    |
-|  3   | Descriptive Statistics            |    ➖    |
+|  3   | Descriptive Statistics            |    ✔️    |
 |  3   | Statistics Visualization          |    ➖    |
 |  4   | Linear Regression                 |    ➖    |
 
