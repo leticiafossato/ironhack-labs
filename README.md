@@ -2,7 +2,7 @@
 
 # IronHack Labs
 Here you can check all my labs solutions developed during Data Analytics - IronHack course.<br>
-<b>Status:</b> Week 07 / Week 09
+<b>Status:</b> ✔️ Complete - Week 09/09
 <br>
 
 ## 🚩 Week 1: Module 1
