@@ -75,7 +75,20 @@ Here you can check all my labs solutions developed during Data Analytics - IronH
 
 <h2> 🚩 Week 7: Module 3 </h2>
 
-| Day  |  Lab                                |  Status  |
-| ---- | ----------------------------        |----------|
-|  1   | Principal Component Analysis (PCA)  |    ➖    |
+| Day  |  Lab                                     |  Status  |
+| ---- | ----------------------------             |----------|
+|  1   | Principal Component Analysis (PCA)       |    ➖    |
+|  2   | Unsupervised Learning with Scikit-Learn  |    ➖    |
+|  2   | Unsupervised Learning                    |    ➖    |
+|  3   | Titanic Exploration                      |    ➖    |
+|  3   | Unsupervised Learning - Test             |    ➖    |
+|  4   | Evaluation                               |    ➖    |
+|  4   | Titanic Classification                   |    ➖    |
+|  5   | Classification - Test                    |    ➖    | 
 
+<h2> 🚩 Week 8: Module 3 </h2>
+
+| Day  |  Lab                                     |  Status  |
+| ---- | ----------------------------             |----------|
+|  1   | Model Interpretability                   |    ➖    |
+|  3   | Natural Language Processing              |    ➖    |
